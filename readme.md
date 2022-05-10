@@ -2,7 +2,7 @@
 
 API developed for the NODEJS challenge proposed by Clicksoft.
 
-API Developed using: Nodejs, TypeScript, AdonisJs and Lucid.
+API Developed using: Nodejs, TypeScript, Sqlite, AdonisJs and Lucid.
 
 Resources available for access via API:
 * [**Students**](#reference/api/students)
